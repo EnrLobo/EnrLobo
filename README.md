@@ -11,7 +11,8 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JAVA]([https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://icons8.com.br/icon/Pd2x9GWu9ovX/logo-java-coffee-cup))  
 
 <a href="https://github.com/EnrLobo/convoychat">
   <img height=173 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EnrLobo&layout=compact&langs_count=8&card_width=320&theme=dracula" />
