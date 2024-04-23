@@ -26,10 +26,10 @@
 
 ## Estudo 📖
 
-  ![Badge Versão](http://img.shields.io/static/v1?label=instituição&message=IF-sul-de-minas&color=GREEN&style=for-the-badge)
-
 - Técnico em Informatica 🖥️
 - Estudante de Sistemas de Informação ☕
+
+![Badge Versão](http://img.shields.io/static/v1?label=instituição&message=IF-sul-de-minas&color=GREEN&style=for-the-badge)
 
   ##
 
